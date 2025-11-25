@@ -103,3 +103,7 @@ My_Final_Project.ipynb
 
 Dataset used in the analysis:
 bankfull.csv
+
+## Author
+**Vinil V V**  
+Main Project – 2025
