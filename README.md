@@ -99,7 +99,7 @@ Use customer segmentation instead of blanket calling.
 **Project Report**
 
 Detailed step-by-step analysis with visuals:
-My_Final_Project.pdf
+My_Final_Project.ipynb
 
 Dataset used in the analysis:
 bankfull.csv
