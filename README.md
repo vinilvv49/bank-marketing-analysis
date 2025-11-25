@@ -1,14 +1,14 @@
-**Bank Marketing Campaign Analysis**
+# Bank Marketing Campaign Analysis
 
 A complete data-cleaning, analysis and insight-generation project based on the Bank Marketing Dataset (UCI Repository).
 
-**Repository Structure**
+## Repository Structure
 /
 ├── bankfull.csv              → Dataset used in the project
 ├── My_Final_Project.pdf       → Full analysis report
 ├── README.md                  → Project documentation
 
-**Project Overview**
+## Project Overview
 
 This project analyzes customer and campaign data from a Portuguese bank to determine which factors influence whether a customer subscribes to a term deposit.
 
@@ -28,7 +28,7 @@ Insight generation
 
 Strategic recommendations
 
-**Dataset Details**
+## Dataset Details
 
 File: bankfull.csv
 
@@ -40,7 +40,7 @@ Source: UCI Machine Learning Repository
 
 Target Variable: y → subscription (yes/no)
 
-**Key Features**
+## Key Features
 
 Demographic: age, job, marital, education
 
@@ -56,7 +56,7 @@ total_contacts
 
 avg_call_duration
 
-**Data Cleaning & Preparation**
+## Data Cleaning & Preparation
 
 Removed unusable unknown values (job, education, contact → replaced with mode)
 
@@ -68,7 +68,7 @@ Added derived columns for deeper insight
 
 Validated: 0 missing values, 0 duplicates
 
-**Key Insights**
+## Key Insights
 
 Customers aged 26–60 form the core target group.
 
@@ -84,7 +84,7 @@ Most conversions happen after meaningful, longer calls.
 
 Peak campaign month: May.
 
-**Recommendations**
+## Recommendations
 
 Focus on high-balance, management, retired and technician customer groups.
 
@@ -96,7 +96,7 @@ Prioritize high-performing campaign months based on historical trends.
 
 Use customer segmentation instead of blanket calling.
 
-**Project Report**
+## Project Report
 
 Detailed step-by-step analysis with visuals:
 My_Final_Project.ipynb
